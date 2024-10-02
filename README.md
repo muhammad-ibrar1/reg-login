@@ -23,6 +23,6 @@ This is a basic web application that uses Laravel for the backend and Vue.js for
 
 ## Code Structure and Decisions
 
-Laravel is used for the backend to handle user registration, login, and validation.
-Vue.js is used for client-side form validation and dynamic error display.
-Axios is used for making HTTP requests to the Laravel backend.(for the time being i am going with common routes did not use api routes.)
+1. Laravel is used for the backend to handle user registration, login, and validation.
+2. Vue.js is used for client-side form validation and dynamic error display.
+3. Axios is used for making HTTP requests to the Laravel backend.(for the time being i am going with common routes did not use api routes.)
